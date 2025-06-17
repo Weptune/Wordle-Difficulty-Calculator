@@ -78,7 +78,7 @@ You're given 4 feedback rows. Can you deduce the secret word that produced them?
 ![image](https://github.com/user-attachments/assets/05b93ec9-94e2-4e6f-8bdc-cd00318a1958)
 
 
-### 9. 🧠 **Letter Leak*
+### 9. 🧠 **Letter Leak**
 Each second reveals a new letter of a scrambled word. The faster you guess it, the better!
 
 
@@ -100,6 +100,8 @@ Each second reveals a new letter of a scrambled word. The faster you guess it, t
 
 ## 📊 Dataset Info
 This app uses a curated CSV with over 13,000+ 5-letter words scored across multiple difficulty dimensions based on linguistic frequency, structure, and obscurity.
+
+---
 
 ## 🧠 Project Goals
 Create an intuitive way to measure word difficulty.
