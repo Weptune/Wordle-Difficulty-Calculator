@@ -54,7 +54,7 @@ Find the fake among four obscure-looking words. Only one is made up!
 Guess whether the next word will be easier or harder than the current one.
 
 
-![image](https://github.com/user-attachments/assets/d3fd8161-d891-4de9-ae97-454bb94c89d4)
+![image](https://github.com/user-attachments/assets/04229bf8-c174-46ad-8383-39cbebe7b6bc)
 
 
 ### 6. 🧱 **Word Builder Blitz**
