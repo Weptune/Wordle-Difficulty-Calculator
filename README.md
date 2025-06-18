@@ -50,11 +50,11 @@ Find the fake among four obscure-looking words. Only one is made up!
 ![image](https://github.com/user-attachments/assets/7856388e-0546-4159-a374-734139b0279b)
 
 
-### 5. 🪜 **Difficulty Ladder**
-Guess whether the next word will be easier or harder than the current one.
+### 5. ⛓ **Wordlocked**
+You’re locked into a set of rules — find a word that breaks out.
 
 
-![image](https://github.com/user-attachments/assets/04229bf8-c174-46ad-8383-39cbebe7b6bc)
+![image](https://github.com/user-attachments/assets/9d052350-503b-45fb-9a72-4b097846f45f)
 
 
 ### 6. 🧱 **Word Builder Blitz**
