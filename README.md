@@ -54,7 +54,7 @@ Find the fake among four obscure-looking words. Only one is made up!
 You’re locked into a set of rules — find a word that breaks out.
 
 
-![image](https://github.com/user-attachments/assets/9d052350-503b-45fb-9a72-4b097846f45f)
+![image](https://github.com/user-attachments/assets/a7e1a31f-bab2-4918-a690-426c27e7b550)
 
 
 ### 6. 🧱 **Word Builder Blitz**
