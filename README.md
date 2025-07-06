@@ -1,6 +1,6 @@
 # 🧠 Wordle Difficulty Calculator & Game Suite
 
-An all-in-one interactive Wordle toolkit that analyzes word difficulty, hosts a growing suite of creative Wordle-style mini-games, and lets you explore linguistic patterns in fun, challenging ways.
+An all-in-one interactive Wordle toolkit that analyzes word difficulty, hosts a growing suite of creative Wordle-style mini-games, and lets you explore linguistic patterns in fun, challenging ways (only available on Windows so far).
 
 ## 🎯 Features
 
