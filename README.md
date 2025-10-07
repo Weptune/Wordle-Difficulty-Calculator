@@ -43,7 +43,7 @@ Pick which of two words is harder. Quick and intuitive!
 ![image](https://github.com/user-attachments/assets/e17d8b96-fda3-4b19-b066-208196a5d783)
 
 
-### 4. 🕵️ **Odd One Out**
+### 4. **Odd One Out**
 Find the fake among four obscure-looking words. Only one is made up!
 
 
